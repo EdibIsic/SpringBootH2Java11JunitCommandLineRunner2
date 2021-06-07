@@ -1,8 +1,7 @@
-# SpringBootH2Java11JunitCommandLineRunner2
+# SpringBoot H2 Database Java11 Junit CommandLineRunner
 SpringBoot H2 Java11Junit CommandLineRunner2
 
-Unit Tests
-
+Features:
  Take the path to logfile.txt as an input argument
 
  Parse the contents of logfile.txt
@@ -21,7 +20,7 @@ Unit Tests
 
  Alert (true if the event took longer than 4ms, otherwise false)
 
-Additional points will be granted for:
+Additional features:
 
  Proper use of info and debug logging
 
